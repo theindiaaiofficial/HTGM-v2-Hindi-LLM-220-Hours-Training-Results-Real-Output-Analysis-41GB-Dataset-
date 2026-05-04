@@ -161,6 +161,17 @@ This project is currently in the **foundation-building phase**.
 - Usability: Not production-ready  
 
 ---
+## Training Status Update
+
+Currently, base pre-training is **not officially stopped yet**.
+
+A decision is being considered to stop further training to avoid overfitting.
+
+However:
+
+👉 If needed, training may continue further.
+
+This is a strategic pause decision — not a final stop.
 
 ## Next Step
 
